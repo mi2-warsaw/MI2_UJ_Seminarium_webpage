@@ -1,0 +1,77 @@
+.main-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #c5c5c5;
+    height: 50px;
+    width: 100%;
+}
+
+.main-nav li {
+    float: right;
+}
+
+.main-nav li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+	margin: 0;
+}
+
+
+.main-nav li a:hover {
+    background-color: #c5c5c5;
+}
+
+.header {
+    clear: both;
+    overflow: auto;
+}
+
+
+.logo{
+    float:left;
+	height: 50px;
+	
+}
+
+.active {
+    background-color: #8e8e8e;
+}
+
+.nav-right{
+    float:right;
+    height: 60 px;
+    
+}
+
+.my_title{
+font-family: 'Montserrat', sans-serif;
+
+}
+
+.mapouter{
+overflow:hidden;
+height:500px;
+width:600px;
+}
+
+.gmap_canvas {
+background:none!important;
+height:500px;
+width:600px;
+}
+
+p{
+font-family: 'Montserrat', sans-serif;
+font-size: 17px;
+}
+
+h3{
+font-family: 'Montserrat', sans-serif;
+}

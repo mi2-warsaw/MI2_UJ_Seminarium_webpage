@@ -1,1 +1,0 @@
-# MI2_UJ_Seminarium_webpage
