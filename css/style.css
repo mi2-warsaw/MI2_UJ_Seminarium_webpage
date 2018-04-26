@@ -8,6 +8,17 @@
     width: 100%;
 }
 
+.navbar-left{
+	display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 23px;
+    color: #ffffff;
+	margin: 0;
+}
+
 .main-nav li {
     float: right;
 }
@@ -50,6 +61,12 @@
     
 }
 
+.nav-left{
+    float:left;
+    height: 60 px;
+    
+}
+
 .my_title{
 font-family: 'Montserrat', sans-serif;
 
@@ -69,9 +86,14 @@ width:600px;
 
 p{
 font-family: 'Montserrat', sans-serif;
-font-size: 17px;
+font-size: 18px;
 }
 
 h3{
 font-family: 'Montserrat', sans-serif;
+}
+
+.prez {
+font-family: 'Montserrat', sans-serif;
+font-size: 15px;
 }
